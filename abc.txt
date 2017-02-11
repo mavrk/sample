@@ -1,5 +1,9 @@
 Initial Commit "Hello"
 Second Commit "Hello 2"
+<<<<<<< HEAD
 abc
 C3
 C4
+=======
+abc
+>>>>>>> e1d6ae42de2d39bf0b437e40774a51419aae6bff
